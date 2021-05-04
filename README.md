@@ -1,4 +1,4 @@
-- 👋 Olá mundo, meu nome é Daniele, mas me chame de sima ou dani.
+- 👋 Olá mundo, meu nome é Daniele, mas me chame de Simas ou dani.
 - 👀 Sou interessada bastante em tecnologia, amo programar ❤
 - 🌱 Atualmente sou graduanda do curso Sistemas de Informação na Universidade do Estado do Amazonas
 <!---
